@@ -1,1 +1,35 @@
 
+body {
+  background-color: #F8F6F;
+  color: #36454F;
+  font-family:arial, helvetica, serif;
+  margin: 15% 10%;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-family:georgia, serif;
+ 
+}
+
+h4 {
+  text-align: center;
+  margin-top: -20px
+   
+}
+
+.about {
+  text-align: center
+}
+
+.hist-header {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: georgia, serif;
+  border-top: 1px solid #36454F;
+ }
+
+.titledate {
+  font-family: arial, helvetica, serif;
+}
