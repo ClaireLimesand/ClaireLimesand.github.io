@@ -1,0 +1,64 @@
+.page-wrapper {
+  max-width: 50px;   
+  margin: 0px auto 0px;   
+  padding: 40px;
+  margin-top: 50px;
+}
+
+.row {
+  display: flex;
+}
+
+.right-column {
+  height: 650px;
+  width: 80%;
+  margin: 10px;
+  padding: 5px;
+}
+
+.left-column {
+  height: 650px;
+  width: 350%;
+  margin: 10px;
+  padding:5px;
+}
+
+body {  
+  background-color: #F8F6F;
+  font-family: arial, helvetica, serif;
+  font-weight: 400;
+  color: #36454F;
+  font-size: 16px;
+  line-height: 20px;
+  padding-bottom: 20px;
+  width: 30%;
+}
+
+h1 {
+  line-height: 30px;
+  text-align: left;
+  text-transform: uppercase;
+  font-family:georgia, serif;
+ }
+
+h4 {
+  line-height: 30px;
+  text-align: left;
+  margin-top: -20px; 
+  margin-bottom: 10px;
+}
+
+.about {
+  text-align: left
+}
+
+.hist-header {
+  text-align: left;
+  text-transform: uppercase;
+  font-family: georgia, serif;
+  border-top: 1px solid #36454F;
+ }
+
+.titledate {
+  font-family: arial, helvetica, serif;
+}
